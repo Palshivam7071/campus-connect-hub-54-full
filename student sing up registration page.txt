@@ -1,0 +1,33 @@
+student sing up registration page 
+dashboard for student 
+
+
+
+admin login (index page )
+ admin dashboard 
+feature of dashboard 
+1) student listing page (student name , mobile no ,branch )(in card may be )(in grid )
+2)student details page (it will fetch the details from the database mongo which was previously stored during student registration )
+
+feature :
+student holiday request 
+admin should accept or decline (as shown in admin dashboard sidebar)
+then student will get the result is it accepted or declined (in his dashboard )
+
+
+
+only admin get the log in no sign up (it will be static )  only student will get the sign up and an log in
+------------------------------------------------------------------------------------------------------------------------------------------
+
+10/06/25  ???????
+
+email addition : 
+admin : admin gets notifivcation of request submitted by student /employee also of registration
+ student : gets imidiate the notification of status of request 
+both get through their email and 
+this all operated by email :: check whether it will work on local host or not ??   learn it
+
+
+push : immediate notification of the action   ::: firebase// pusher google  // also we can add real time chat btw admin and student (go through toturial firebase)
+
+live methods through hostinger or any other methods (learn through toturial)

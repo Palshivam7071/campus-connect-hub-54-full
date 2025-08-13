@@ -1,0 +1,1 @@
+MONGO_URI=mongodb+srv://shivampal:K31pB0HEXbRtL3A1@ecombeauty.6z98i.mongodb.net/ecomstore?retryWrites=true&w=majority
